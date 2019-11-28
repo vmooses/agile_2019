@@ -1,0 +1,58 @@
+---
+title: "Key takeaways from Agile PhD school"
+author: "Veronika Mooses"
+date: "28 11 2019"
+output:
+  html_document: default
+  pdf_document: default
+fontsize: 20pt
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+```
+
+## Visualization
+In my current article I investigate how cross-border short-term mobility varies among Estonians and Russian speaking minority. The novelty of the study lies in fact, that in activity-space segregation studies cross-border mobility has not been included, even though an increasing number of people commutes between different countries frequently. 75,118 people are included in my study. 
+
+![Figure 1 Tourists](C:/Users/Veronika Mooses/OneDrive/Documents_thispc/Documents_oige/PhD/agile_phd_school_git/turstid_ENG_2.png){width=500px}
+
+**What to further consider/test based on Topi's lecture:**  
+1. Change the projection to LAEA-ETRS  
+2. Test with different background colours
+
+**Key takeaways**  
+1. Visualizing dynamic processes  
+2. Nice basemaps
+
+
+## Reproducibility
+**1. Passive mobile positioning roaming data**   
+In terms of reproducibility, I cannot make the mobile positioning data open to everyone. However what I can provide is:  
+* The reasoning why I cannot provide the data.   
+* Description of the dataset that I use (metadata)  
+* Synthetic data that is similar to my own data (hypothetical opportunity)  
+* Workflow
+
+*Technical details and workflow can be in GitHub and/or Zenodo repository. All the softwares, libraries and tools used will be listed in the meta-data of analysis and should be referenced to in methodology section of the article.*
+
+**2. Open data - world administrative map, Estonian municipalities**  
+* World Borders Map: Creative Commons Attribution-Share Alike License.  
+* Estonian municipalities: instructions how to reference    
+
+**Key takeaways**    
+* Basic understanding what is git, gitHub, basic commands  
+* What is a README.md file  
+* Pay attention to licenses! 
+
+## Science Communication
+**Key takeaways**  
+* Brown's questions can be in handy for writing an abstract  
+* To think how to develop the scientific "tension" (The Gap) that is the most engaging for the readers = "selling" your research idea to the reviewers.   
+* Consider your audience and choose the language accordingly.
+
+ 
+
+
+
